@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌍 PurePath AI - Complete Platform
 
 **AI-Powered Civic Reporting & Waste Management System**
@@ -350,3 +351,7 @@ For issues:
 **🌟 Complete. Connected. Ready to Deploy. 🚀**
 
 This is your **COMPLETE** PurePath AI platform with every feature, page, and function integrated and working perfectly!
+=======
+# purepath-ai
+AI-powered waste classification and reporting system for urban sanitation (SDG 6)
+>>>>>>> bec5c965925ad987af43d3ed0c06a587c73a30ea
